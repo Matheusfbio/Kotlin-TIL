@@ -6,7 +6,7 @@ fun main() {
     println(temparetureFahrenheit)
 }
 
-fun convertToFahrenheit(tempareture: Double): Double {
+fun convertToFahrenheit(tempareture: Double): Double{
     return (tempareture * 9 / 5) + 32
 }
 
